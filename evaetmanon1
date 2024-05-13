@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Le Manoir Hanté</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Le Manoir Hanté</h1>
+    </header>
+    <main>
+        <section id="introduction">
+            <h2>Bienvenue au Manoir Hanté</h2>
+            <p>Dans ce jeu, vous allez vivre une aventure terrifiante où chaque décision compte.</p>
+            <a href="salle1.html">Commencer le jeu</a>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Le Manoir Hanté</p>
+    </footer>
+</body>
+</html>
